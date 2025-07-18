@@ -2,6 +2,10 @@
 
 [![jjw's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjw3300&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+<a href="https://solved.ac/jjw3300">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jjw3300" />
+  </a>
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
