@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![jjw's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjw3300)](https://github.com/anuraghazra/github-readme-stats)
+[![jjw's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjw3300&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 Here are some ideas to get you started:
 
